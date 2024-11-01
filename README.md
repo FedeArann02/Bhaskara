@@ -1,8 +1,8 @@
-![BHASKARA](ParabolaCeros/images/scApp.png)
+![BHASKARA]
+(ParabolaCeros/images/scApp.png)
 
 
-Este proyecto es una aplicación de Windows Forms que permite calcular la parabola de ceros de un polinomio de grado 2, ofrece resultados de las raices y su vértice.
-Por lo cual con estos datos podremos expresar el polinomio de forma Factorizada "a(X-X1)(X-X2)" o Canónicamente "a(X-XV)*2 + YV".
+Este proyecto es una aplicación de Windows Forms que permite calcular la parabola de ceros de un polinomio de grado 2.
 
 ## Funcionalidades
 
@@ -10,6 +10,9 @@ Por lo cual con estos datos podremos expresar el polinomio de forma Factorizada 
 - A = Término cuadratico
 - B = Término Lineal
 - C = Termino independiente
+
+- ofrece resultados de las raices y su vértice.
+Por lo cual con estos datos podremos expresar el polinomio de forma Factorizada "a(X-X1)(X-X2)" o Canónicamente "a(X-XV)*2 + YV".
 
 - **Interfaz intuitiva**: Diseñada con Windows Forms, es fácil de usar y accesible.
 
