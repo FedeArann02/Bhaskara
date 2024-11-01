@@ -30,6 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmBhaskara));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pbxSalir = new System.Windows.Forms.PictureBox();
+            this.lblTitulo = new System.Windows.Forms.Label();
             this.txtA = new System.Windows.Forms.TextBox();
             this.txtB = new System.Windows.Forms.TextBox();
             this.txtC = new System.Windows.Forms.TextBox();
@@ -46,8 +48,6 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.lblTitulo = new System.Windows.Forms.Label();
-            this.pbxSalir = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbxSalir)).BeginInit();
             this.SuspendLayout();
@@ -62,6 +62,32 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(669, 67);
             this.panel1.TabIndex = 0;
+            // 
+            // pbxSalir
+            // 
+            this.pbxSalir.AccessibleDescription = "Salir";
+            this.pbxSalir.AccessibleName = "Salir";
+            this.pbxSalir.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.pbxSalir.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pbxSalir.Image = ((System.Drawing.Image)(resources.GetObject("pbxSalir.Image")));
+            this.pbxSalir.Location = new System.Drawing.Point(640, 17);
+            this.pbxSalir.Name = "pbxSalir";
+            this.pbxSalir.Size = new System.Drawing.Size(17, 17);
+            this.pbxSalir.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pbxSalir.TabIndex = 2;
+            this.pbxSalir.TabStop = false;
+            this.pbxSalir.Click += new System.EventHandler(this.pbxSalir_Click);
+            // 
+            // lblTitulo
+            // 
+            this.lblTitulo.AutoSize = true;
+            this.lblTitulo.Font = new System.Drawing.Font("Segoe UI Variable Display", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitulo.ForeColor = System.Drawing.Color.White;
+            this.lblTitulo.Location = new System.Drawing.Point(254, 17);
+            this.lblTitulo.Name = "lblTitulo";
+            this.lblTitulo.Size = new System.Drawing.Size(161, 36);
+            this.lblTitulo.TabIndex = 0;
+            this.lblTitulo.Text = "BHASKARA";
             // 
             // txtA
             // 
@@ -242,9 +268,9 @@
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label5.Location = new System.Drawing.Point(106, 552);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(48, 41);
+            this.label5.Size = new System.Drawing.Size(55, 41);
             this.label5.TabIndex = 15;
-            this.label5.Text = "v1";
+            this.label5.Text = "xV";
             // 
             // label6
             // 
@@ -253,35 +279,9 @@
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label6.Location = new System.Drawing.Point(516, 552);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(53, 41);
+            this.label6.Size = new System.Drawing.Size(57, 41);
             this.label6.TabIndex = 16;
-            this.label6.Text = "v2";
-            // 
-            // lblTitulo
-            // 
-            this.lblTitulo.AutoSize = true;
-            this.lblTitulo.Font = new System.Drawing.Font("Segoe UI Variable Display", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitulo.ForeColor = System.Drawing.Color.White;
-            this.lblTitulo.Location = new System.Drawing.Point(254, 17);
-            this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Size = new System.Drawing.Size(161, 36);
-            this.lblTitulo.TabIndex = 0;
-            this.lblTitulo.Text = "BHASKARA";
-            // 
-            // pbxSalir
-            // 
-            this.pbxSalir.AccessibleDescription = "Salir";
-            this.pbxSalir.AccessibleName = "Salir";
-            this.pbxSalir.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.pbxSalir.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pbxSalir.Image = ((System.Drawing.Image)(resources.GetObject("pbxSalir.Image")));
-            this.pbxSalir.Location = new System.Drawing.Point(640, 17);
-            this.pbxSalir.Name = "pbxSalir";
-            this.pbxSalir.Size = new System.Drawing.Size(17, 17);
-            this.pbxSalir.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pbxSalir.TabIndex = 2;
-            this.pbxSalir.TabStop = false;
-            this.pbxSalir.Click += new System.EventHandler(this.pbxSalir_Click);
+            this.label6.Text = "yV";
             // 
             // frmBhaskara
             // 

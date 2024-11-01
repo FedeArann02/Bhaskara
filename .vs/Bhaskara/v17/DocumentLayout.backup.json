@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParabolaCeros\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{342933C7-77EC-44A0-8726-972C9C4E412F}|ParabolaCeros\\Bhaskara.csproj|c:\\users\\leo\\source\\repos\\bhaskara\\parabolaceros\\frmbhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{342933C7-77EC-44A0-8726-972C9C4E412F}|ParabolaCeros\\Bhaskara.csproj|solutionrelative:parabolaceros\\frmbhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParabolaCeros\\frmBhaskara.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{342933C7-77EC-44A0-8726-972C9C4E412F}|ParabolaCeros\\Bhaskara.csproj|C:\\Users\\Leo\\source\\repos\\Bhaskara\\parabolaceros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342933C7-77EC-44A0-8726-972C9C4E412F}|ParabolaCeros\\Bhaskara.csproj|solutionrelative:parabolaceros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParabolaCeros\\frmBhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{342933C7-77EC-44A0-8726-972C9C4E412F}|ParabolaCeros\\Bhaskara.csproj|C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342933C7-77EC-44A0-8726-972C9C4E412F}|ParabolaCeros\\Bhaskara.csproj|solutionrelative:ParabolaCeros\\frmBhaskara.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Leo\\source\\repos\\Bhaskara\\parabolaceros\\frmbhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:parabolaceros\\frmbhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{342933C7-77EC-44A0-8726-972C9C4E412F}|ParabolaCeros\\Bhaskara.csproj|C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342933C7-77EC-44A0-8726-972C9C4E412F}|ParabolaCeros\\Bhaskara.csproj|solutionrelative:ParabolaCeros\\frmBhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,48 +46,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\Program.cs",
               "RelativeDocumentMoniker": "ParabolaCeros\\Program.cs",
               "ToolTip": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\Program.cs",
               "RelativeToolTip": "ParabolaCeros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T18:32:05.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmBhaskara.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.Designer.cs",
               "RelativeDocumentMoniker": "ParabolaCeros\\frmBhaskara.Designer.cs",
-              "ToolTip": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.Designer.cs",
-              "RelativeToolTip": "ParabolaCeros\\frmBhaskara.Designer.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.Designer.cs*",
+              "RelativeToolTip": "ParabolaCeros\\frmBhaskara.Designer.cs*",
               "ViewState": "AgIAACcAAAAAAAAAAAAWwGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T17:19:16.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmBhaskara.cs",
-              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.cs",
-              "RelativeDocumentMoniker": "ParabolaCeros\\frmBhaskara.cs",
-              "ToolTip": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.cs",
-              "RelativeToolTip": "ParabolaCeros\\frmBhaskara.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T17:05:37.482Z"
+              "WhenOpened": "2024-11-01T17:19:16.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "frmBhaskara.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.cs",
+              "RelativeDocumentMoniker": "ParabolaCeros\\frmBhaskara.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.cs*",
+              "RelativeToolTip": "ParabolaCeros\\frmBhaskara.cs*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:05:37.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "frmBhaskara.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.cs",
               "RelativeDocumentMoniker": "ParabolaCeros\\frmBhaskara.cs",
-              "ToolTip": "C:\\Users\\Leo\\source\\repos\\ParabolaCeros\\ParabolaCeros\\frmBhaskara.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\ParabolaCeros\\ParabolaCeros\\frmBhaskara.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\Bhaskara\\ParabolaCeros\\frmBhaskara.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "ParabolaCeros\\frmBhaskara.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T17:01:27.483Z"
+              "WhenOpened": "2024-11-01T17:01:27.483Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

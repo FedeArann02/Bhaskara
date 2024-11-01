@@ -1,0 +1,10 @@
+C:\Users\Leo\source\repos\Bhaskara\ParabolaCeros\bin\Debug\ParabolaCeros.exe.config
+C:\Users\Leo\source\repos\Bhaskara\ParabolaCeros\bin\Debug\ParabolaCeros.exe
+C:\Users\Leo\source\repos\Bhaskara\ParabolaCeros\bin\Debug\ParabolaCeros.pdb
+C:\Users\Leo\source\repos\Bhaskara\ParabolaCeros\obj\Debug\Bhaskara.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\Bhaskara\ParabolaCeros\obj\Debug\ParabolaCeros.frmBhaskara.resources
+C:\Users\Leo\source\repos\Bhaskara\ParabolaCeros\obj\Debug\ParabolaCeros.Properties.Resources.resources
+C:\Users\Leo\source\repos\Bhaskara\ParabolaCeros\obj\Debug\Bhaskara.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\Bhaskara\ParabolaCeros\obj\Debug\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\Bhaskara\ParabolaCeros\obj\Debug\ParabolaCeros.exe
+C:\Users\Leo\source\repos\Bhaskara\ParabolaCeros\obj\Debug\ParabolaCeros.pdb
