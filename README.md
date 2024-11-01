@@ -1,4 +1,4 @@
-#BHASKARA#
+## BHASKARA
 ![BHASKARA](ParabolaCeros/images/scApp.png)
 
 
