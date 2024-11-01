@@ -1,5 +1,5 @@
-![BHASKARA]
-(ParabolaCeros/images/scApp.png)
+#BHASKARA#
+![BHASKARA](ParabolaCeros/images/scApp.png)
 
 
 Este proyecto es una aplicación de Windows Forms que permite calcular la parabola de ceros de un polinomio de grado 2.
